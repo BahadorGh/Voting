@@ -10,7 +10,8 @@ npx hardhat node (in a new terminal)
 npx hardhat run scripts/deploy.js
 ```
 
-To create docs from the smart contract, use below command:
+You can visit contract docs in an index.html file located at `.doc` folder
+Also, to create docs from the smart contract, use below command:
 
 ```
 npm run docgen
